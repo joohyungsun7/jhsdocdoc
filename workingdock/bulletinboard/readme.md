@@ -1,8 +1,9 @@
-## Test by jhs
+## TEST BY JHS.
 
-Test ... 
+Test in Docker Hub ...
 
-ref. can check from below 'readme.md'
+Ref. can be shown in above original 'readme.md'.
+
 
 ## Vue Events Bulletin Board
 
